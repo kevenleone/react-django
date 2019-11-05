@@ -1,3 +1,8 @@
 node_modules
 .vscode
 leadmanager/db.sqlite3
+leadmanager/frontend/migrations/__pycache__
+leadmanager/frontend/__pycache__
+leadmanager/leadmanager/__pycache__
+leadmanager/leads/__pycache__
+leadmanager/leads/migrations/__pycache__/
